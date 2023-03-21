@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          console.log("A agenda mais linda do mundo")
+          console.log(&quot;A agenda mais linda do mundo&quot;)
           <code className={styles.code}> ou não</code>
         </p>
         <div>
