@@ -9,22 +9,21 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          console.log("A agenda mais linda do mundo")
+          <code className={styles.code}> ou não</code>
         </p>
         <div>
           <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://github.com/LuisHenrique01"
             target="_blank"
             rel="noopener noreferrer"
           >
             By{' '}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
+              src="/fluidicon.png"
+              alt="Luis perfil"
+              width={60}
+              height={60}
               priority
             />
           </a>
