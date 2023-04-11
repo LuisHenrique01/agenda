@@ -8,5 +8,6 @@ export async function list_agenda(): Promise<Agenda[]> {
         })
         .catch(error => {
             console.log(error);
+            return [];
         });
 }
